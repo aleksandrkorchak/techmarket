@@ -1,0 +1,1 @@
+<a href="login.html" class="in-e17-bar"><i class="fa fa-sign-out" aria-hidden="true"></i> Выход</a>
